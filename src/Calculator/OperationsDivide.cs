@@ -5,8 +5,7 @@ public static class OperationsDivide
     public static double DivideBySquare(int x)
     {
         // Example: DivideBySquare(4) should return 0.25 (4 / 16).
-        if (x == 0) throw new DivideByZeroException("Cannot divide by zero.");
-        throw new NotImplementedException();
+        return x / (x*x);
     }
 
     public static bool CanSplitPieFairly(int totalSlices, int numberOfRecipients, int slicesPerPerson)
