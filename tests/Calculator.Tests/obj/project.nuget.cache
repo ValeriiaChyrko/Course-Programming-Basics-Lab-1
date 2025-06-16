@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B3/ezuFx5rg=",
+  "dgSpecHash": "tIoXZk6cIPY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\echoe\\RiderProjects\\SyntaxBasics.Pract1\\Calculator.Tests\\Calculator.Tests.csproj",
+  "projectFilePath": "C:\\Users\\echoe\\RiderProjects\\Course-Programming-Basics-Lab-1\\tests\\Calculator.Tests\\Calculator.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\echoe\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\echoe\\.nuget\\packages\\microsoft.codecoverage\\17.11.1\\microsoft.codecoverage.17.11.1.nupkg.sha512",
